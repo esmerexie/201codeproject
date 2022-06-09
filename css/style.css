@@ -16,3 +16,8 @@ p {
     margin-left: 37%;
     background-color: rgba(224, 255, 231, 0.959);
 }
+
+ol {
+    margin-left: auto;
+    margin-right: auto;
+}
