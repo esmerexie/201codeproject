@@ -16,3 +16,6 @@ This project took a very long time for me to finish. I hate to admit it but it w
 
 6/9/2022
 Updated to requirments of lab 3. I really struggled on this task. I coulnd't figure out how to make arrays work for the questions. I spent way too long on this assignment around 7ish hours. Hopefully I can get some clarity in class.
+
+6/12/2022
+Updated and added code for more readability and style website for a little more pizzazzz!
