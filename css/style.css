@@ -3,6 +3,7 @@ body {
 }
 
 h1 {
+    border-radius: 25px;
     border-style: double;
     height: 50px;
     width: 360px;
@@ -13,6 +14,9 @@ h1 {
 }
 
 p {
+    box-shadow: 10px 5px 5px rgb(148, 133, 133);
+    font-family:'Times New Roman', Times, serif;
+    font-size: large;
     border-style:groove;
     width:500px;
     margin-left: auto;
@@ -22,6 +26,8 @@ p {
 }
 
 h2 {
+    box-shadow: 10px 5px 5px rgb(148, 133, 133);
+    border-radius: 25px;
     border-style: solid;
     margin-left:auto;
     margin-right:auto;
@@ -31,6 +37,7 @@ h2 {
 }
 
 ol {
+    box-shadow: 10px 5px 5px rgb(148, 133, 133);
     border-radius: 10px;
     border-style: solid;
     width:200px;
@@ -41,6 +48,8 @@ ol {
 }
 
 h3 {
+    box-shadow: 10px 5px 5px rgb(148, 133, 133);
+    border-radius: 25px;
     border-style: solid;
     margin-left:auto;
     margin-right:auto;
@@ -50,6 +59,7 @@ h3 {
 }
 
 ul {
+    box-shadow: 10px 5px 5px rgb(148, 133, 133);
     border-radius: 10px;
     border-style: solid;
     width:355px;
